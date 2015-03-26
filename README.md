@@ -1,10 +1,13 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 ###Recipe Box###
 
 **A recipe box for sharing recipes**
 =======
 == README
+=======
+>>>>>>> 31297d2... Updated readme
 
 ###A recipe box, for uploading and sharing recipes###
 
@@ -30,10 +33,19 @@
 =======
 ===============================================
 
+
 **Steps to run the app:-**
 
+<<<<<<< HEAD
 1. > Git clone "REPO LOCATION"
 2. > cd Recipe-box
 3. > rake db:create db:migrate
 4. > rails s
 >>>>>>> 57f1129... Updated readme
+=======
+1. git clone "REPO LOCATION"
+2. cd Recipe-box
+3. rake db:create db:migrate
+4. rails s
+
+>>>>>>> 31297d2... Updated readme
