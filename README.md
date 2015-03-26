@@ -1,7 +1,14 @@
+<<<<<<< HEAD
 
 ###Recipe Box###
 
 **A recipe box for sharing recipes**
+=======
+== README
+
+###A recipe box, for uploading and sharing recipes###
+
+>>>>>>> 57f1129... Updated readme
 
 **This app uses:-**
 
@@ -11,6 +18,7 @@
 - HAML
 - SQLite
 
+<<<<<<< HEAD
 
 **Steps to run the app:-**
 
@@ -19,3 +27,13 @@
 3. rake db:create db:migrate
 4. rails s
 
+=======
+===============================================
+
+**Steps to run the app:-**
+
+1. > Git clone "REPO LOCATION"
+2. > cd Recipe-box
+3. > rake db:create db:migrate
+4. > rails s
+>>>>>>> 57f1129... Updated readme
