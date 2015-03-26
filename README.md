@@ -9,9 +9,13 @@
 =======
 >>>>>>> 31297d2... Updated readme
 
-###A recipe box, for uploading and sharing recipes###
+###Recipe Box###
 
+<<<<<<< HEAD
 >>>>>>> 57f1129... Updated readme
+=======
+**A recipe box for sharing recipes**
+>>>>>>> dac9df7... Updated readme
 
 **This app uses:-**
 
@@ -21,6 +25,7 @@
 - HAML
 - SQLite
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 
 **Steps to run the app:-**
@@ -33,6 +38,8 @@
 =======
 ===============================================
 
+=======
+>>>>>>> dac9df7... Updated readme
 
 **Steps to run the app:-**
 
