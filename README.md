@@ -44,6 +44,7 @@
 **Steps to run the app:-**
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 1. > Git clone "REPO LOCATION"
 2. > cd Recipe-box
 3. > rake db:create db:migrate
@@ -51,6 +52,9 @@
 >>>>>>> 57f1129... Updated readme
 =======
 1. git clone "REPO LOCATION"
+=======
+1. git clone "git@github.com:SlipperyJ/Recipe-box.git"
+>>>>>>> cb25810... Updated readme
 2. cd Recipe-box
 3. rake db:create db:migrate
 4. rails s
