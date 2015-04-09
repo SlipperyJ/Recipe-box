@@ -17,3 +17,7 @@
 3. rake db:create db:migrate
 4. rails s
 
+**This app requires ImageMagick to upload photos, available at:-**
+
+- www.imagemagick.org
+
